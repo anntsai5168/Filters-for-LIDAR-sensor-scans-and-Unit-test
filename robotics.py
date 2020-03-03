@@ -1,7 +1,7 @@
 """
 Title: Filters for LIDAR sensor scans
 03/03/2021
-Ann Tsai
+Ming-Yun (Ann) Tsai
 
 P.S.
 In the attachment, it says that "Each scan is as array of length N of float value......".
